@@ -1,9 +1,13 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Todoapp
+
+A simple todo app built with React and Redux, allowing users to add, update, and delete tasks.
+
+## Table of Contents
+
+- [Features](#features)
+
+## Features
+
+- Add tasks
+- Update tasks
+- Delete tasks
